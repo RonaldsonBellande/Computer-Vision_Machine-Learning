@@ -41,7 +41,9 @@ python3 transferlearningInception.py
 #Results will be in a file named [time]-AeroplaneResults.txt
 
 Neural Networks:
-1. Adjust the file paths in Neural_Network_Image_Classification_small_data_set.ipynb
+1. Adjust the file paths in Neural_Network_Image_Classification_small_data_set_first.ipynb
 to match your filepaths.
+2. Run all code blocks in Split_Files:
+python3 Split_Files.ipynb
 2. Run all blocks for the Neural Network Model
-python3 Neural_Network_Image_Classification_small_data_set.ipynb
+python3 Neural_Network_Image_Classification_small_data_set_first.ipynb
